@@ -117,16 +117,16 @@
               # Define keywords for each category
     
     
-              FEATURE_KEYWORDS=("feature" "feat" "enhancement")
+              FEATURE_KEYWORDS=("feature" "feat" "enhancement" "minor")
     
     
-              BUG_KEYWORDS=("bug" "bugfix" "defect" "error" )
+              BUG_KEYWORDS=("bug" "bugfix" "defect" "error" "patch" )
     
     
-              OTHER_KEYWORDS=("other" "document" "docs")
+              OTHER_KEYWORDS=("other" "document" "docs" "update" "readme" "comments")
     
     
-              MAINTENANCE_KEYWORDS=("chore" "refactor" "maintenance")
+              MAINTENANCE_KEYWORDS=("chore" "refactor" "maintenance" "dependencies" "cleanup" "deprecate")
     
     
               MAJOR_KEYWORDS=("major" "stable" "breaking change")
