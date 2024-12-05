@@ -120,7 +120,7 @@
               FEATURE_KEYWORDS=("feature" "feat" "enhancement")
     
     
-              BUG_KEYWORDS=("bug" "bugfix" "defect")
+              BUG_KEYWORDS=("bug" "bugfix" "defect" "error" )
     
     
               OTHER_KEYWORDS=("other" "document" "docs")
